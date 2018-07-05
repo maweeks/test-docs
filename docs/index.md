@@ -2,7 +2,7 @@
 
 [Home](./index.html) &nbsp; [Help Guide](./help.html) &nbsp; [FAQ](./faq.html) &nbsp; [Fleet Pond website](http://fleetpond.org.uk/)
 
-## Info
+## Home
 
 The Fleet pond companion app allows you to plan a walk around the pond, track your location and find out more information about the trails and points of interest at the pond.
 
