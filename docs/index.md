@@ -1,7 +1,6 @@
 # Fleet Pond - Companion App
 
-| [Info](./index.html) | [Help Guide](./help.html) | [FAQ](./faq.html) | [Fleet Pond website](http://fleetpond.org.uk/) |
-|:---:|:---:|:---:|:---:|
+[Info](./index.html) &nbsp; [Help Guide](./help.html) &nbsp; [FAQ](./faq.html) &nbsp; [Fleet Pond website](http://fleetpond.org.uk/)
 
 ## Info
 
