@@ -4,4 +4,16 @@
 
 ## Help Guide
 
-This page will provide you will all the information you need to make full use of all the features of the application.
+This page will provide you will all the information you need to make full use of the whole application.
+
+### Map
+
+### Trails
+
+### Points of interest
+
+### Point of interest
+
+### Gallery
+
+### Info
