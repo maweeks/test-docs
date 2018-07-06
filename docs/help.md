@@ -14,7 +14,7 @@ The map tab is the default tab that will be visible when you open the app. It al
 
 #### Base map
 
-The map uses Google Maps to visualise the Fleet Pond area. You can switch to terrain view using the button in the top left corner. Points of interest, routes and your location can be shown on the map.
+The map uses Google Maps to visualise the Fleet Pond area. You can switch to satellite view using the button in the top left corner. Points of interest, routes and your location can be shown on the map.
 
 #### Points of interest
 
@@ -26,13 +26,21 @@ Points of interest are shown with red markers on the map. Clicking on one will s
 
 The blue markers show the location of benches.
 
+#### Location
+
+![Location marker][markerLocation]
+
+If you allow the app to use your location, it will be shown with a blue dot with pulsating rings. The persistant ring shows how accurate your location reading is.
+
+**Your location is only used locally on your device, and is not stored anywhere.**
+
 #### Map buttons
 
 There are two buttons available in the bottom right of the screen.
 
 ![Location button][buttonLocation]
 
-The location button, only shown if your gps location is available, will lock the map to your location keeping your position centred on the map. The button will glow blue when locked to your location, tap the button again to disable the location lock.
+The location button, only shown if your gps location is available, will lock the map to your location keeping your position centred on the map. The button will glow blue when locked to your location, tap the button again to disable the location lock. The map will only be centered to your location when you have an accurate reading.
 
 ![Map button][buttonMap]
 
@@ -69,5 +77,6 @@ If you are offline, you will be shown reduced page without Google Maps and some 
 [buttonMap]: ./assets/images/help/buttonMap.png
 [markerBlue]: ./assets/images/help/markerBlue.png
 [markerRed]: ./assets/images/help/markerRed.png
+[markerLocation]: ./assets/images/help/markerLocation.png
 [screenshotMap]: ./assets/images/help/screenshotMap.png
 [screenshotMapOffline]: ./assets/images/help/screenshotMapOffline.png
