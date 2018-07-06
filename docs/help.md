@@ -32,11 +32,11 @@ There are two buttons available in the bottom right of the screen.
 
 ![Location button][buttonLocation]
 
-The location button, only shown if your gps location is available, will lock the map to your location keeping your position centered on the map. The button will glow blue when locked to your location, tap the button again to disable the location lock.
+The location button, only shown if your gps location is available, will lock the map to your location keeping your position centred on the map. The button will glow blue when locked to your location, tap the button again to disable the location lock.
 
 ![Map button][buttonMap]
 
-The map button centers you back onto the pond, resetting to the default map view.
+The map button centres you back onto the pond, resetting to the default map view.
 
 #### Key
 
