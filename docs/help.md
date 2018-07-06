@@ -4,7 +4,9 @@
 
 ## Help Guide
 
-This page will provide you will all the information you need to make full use of the whole application.
+This page will provide you will all the information you need to make full use of the Fleet Pond - Companion App.
+
+![Screenshot of the splashscreen][screenshotSplash]
 
 ### Map
 
@@ -78,5 +80,6 @@ If you are offline, you will be shown reduced page without Google Maps and some 
 [markerBlue]: ./assets/images/help/markerBlue.png
 [markerRed]: ./assets/images/help/markerRed.png
 [markerLocation]: ./assets/images/help/markerLocation.png
+[screenshotSplash]: ./assets/images/help/screenshotSplash.png
 [screenshotMap]: ./assets/images/help/screenshotMap.png
 [screenshotMapOffline]: ./assets/images/help/screenshotMapOffline.png
