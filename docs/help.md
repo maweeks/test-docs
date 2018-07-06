@@ -42,7 +42,7 @@ There are two buttons available in the bottom right of the screen.
 
 ![Location button][buttonLocation]
 
-The location button, only shown if your gps location is available, will lock the map to your location keeping your position centred on the map. The button will glow blue when locked to your location, tap the button again to disable the location lock. The map will only be centered to your location when you have an accurate reading.
+The location button, only shown if your gps location is available, will lock the map to your location keeping your position centred on the map. The button will glow blue when locked to your location, tap the button again to disable the location lock. The map will only be centered to your location while you have an accurate reading.
 
 ![Map button][buttonMap]
 
