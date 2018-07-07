@@ -8,7 +8,7 @@ _**We plan to change the way that the app data is stored for the app, hopefully 
 
 **Q: What hardware do I need to create an app like this for my park / pond / nature reserve?**
 
-A: You will need a reasonable computer, and a phone with GPS (if you want to record routes). To release to the Apple App Store you will have to use a Mac. We recommend having at least one physical device for each platform that you are developing for.
+A: You will need a reasonable computer, and a phone with GPS (if you want to record routes). To release to the Apple App Store you will have to use a Mac. We recommend having at least one physical device for each platform that you are developing for so that you can test it.
 
 **Q: How do I run the app?**
 
@@ -16,7 +16,7 @@ A: The code for the fleet pond companion app is available on Github [here](https
 
 **Q: What data do I need to collect / create for the app?**
 
-A: We collected / created the following for the Fleet Pond app (the way that this is stored in the app will change soon allowing more customisability):
+A: We collected / created the following for the Fleet Pond app:
 
 * App icon
 * Splash screen
@@ -72,3 +72,7 @@ From those sites you can manage all aspects of the release of your app to each s
 **Q: I need help, can you make my new app for me?**
 
 A: For minor queries you can reach out to [enquiries.fleetpondapp@gmail.com](mailto:enquiries.fleetpondapp@gmail.com) but due to the time commitment required we will not be able to write your app for you. If you want more significant help contact [matt@weeks.codes](mailto:matt@weeks.codes) who was on the team that developed the Fleet Pond App.
+
+**Q: I want features that are not currently available in the app, can you add them?**
+
+A: Please email us your suggestions to [enquiries.fleetpondapp@gmail.com](mailto:enquiries.fleetpondapp@gmail.com) but we can't promise we will have time to implement them. If you want help implementing something for your app contact [matt@weeks.codes](mailto:matt@weeks.codes) who was on the team that developed the Fleet Pond App.
