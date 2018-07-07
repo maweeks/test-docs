@@ -2,9 +2,9 @@
 
 [Home](./index.html) &nbsp; [Help Guide](./help.html) &nbsp; [FAQ](./faq.html) &nbsp; [Fleet Pond website](http://fleetpond.org.uk/)
 
-_**WARNING: We plan to change the way that the app data is stored for the app, hopefully before the end of the year. We recommend that you wait to create your app until that has been done as it will make it far easier and give you more customisability options.**_
+_**WARNING: We plan to change the way that the app data is stored for the app, hopefully before the end of the year. We recommend that you wait to create your app until that has been done as it will make it far easier and give you more customisation options.**_
 
-## FAQ
+## F.A.Q.
 
 If you have questions that are not covered below you can reach out to us at [enquiries.fleetpondapp@gmail.com](mailto:enquiries.fleetpondapp@gmail.com).
 
