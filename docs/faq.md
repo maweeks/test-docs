@@ -4,7 +4,7 @@
 
 ## FAQ
 
-__**We plan to change the way that the app data is stored for the app, hopefully before the end of the year. We recommend that you wait to create your app until that has been done as it will make it far easier and give you more customisability options.**__
+_**We plan to change the way that the app data is stored for the app, hopefully before the end of the year. We recommend that you wait to create your app until that has been done as it will make it far easier and give you more customisability options.**_
 
 **Q: What hardware do I need to create an app like this for my park / pond / nature reserve?**
 
