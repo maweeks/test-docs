@@ -71,6 +71,10 @@ To release to the Apple App Store you will need to use [Itunes Connect](https://
 
 From those sites you can manage all aspects of the release of your app to each store.
 
+**Q: Can you host my app for me so I don't have to pay the fee?**
+
+A: Unfortunatly not, this is against the Apple Store Guidelines and would get the application rejected upon review.
+
 **Q: I need help, can you make my new app for me?**
 
 A: For queries you can reach out to [enquiries.fleetpondapp@gmail.com](mailto:enquiries.fleetpondapp@gmail.com) but due to the time commitment required we will not be able to write your app for you. If you want more significant help contact [matt@weeks.codes](mailto:matt@weeks.codes) who was on the team that developed the Fleet Pond App.
