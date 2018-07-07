@@ -8,7 +8,7 @@ _**We plan to change the way that the app data is stored for the app, hopefully 
 
 **Q: What hardware do I need to create an app like this for my park / pond / nature reserve?**
 
-A: You will need a reasonable computer, and a phone with GPS (if you want to record routes). To release to the Apple App Store you will have to use a Mac. We recommend having at least one physical device for each platform that you are developing for so that you can test it.
+A: You will need a reasonable computer, and a phone with GPS (if you want to record routes). To release to the Apple App Store you will have to use a Mac. We recommend having at least one physical device for each platform that you are developing for so that you can test it on a real device.
 
 **Q: How do I run the app?**
 
@@ -48,7 +48,7 @@ A: Walks around Fleet Pond were tracked using the Fitbit phone app (free to use,
 
 **Q: How do I change the content for my app?**
 
-A: You should fork the Fleet Pond app [repository](https://github.com/fleet-pond/fleet-pond-app). From there you can change the content of the app.
+A: You should fork the Fleet Pond app [repository](https://github.com/fleet-pond/fleet-pond-app). From there you can change the content for your app.
 
 * App icons are stored in /res/icon/android/ and /res/icon/ios/. The multiple resolutions are required for different phone screen resolutions, you should keep them the same resolution.
 * Splash screens are stored in /res/screen/android/ and /res/screen/ios/. The multiple resolutions are required for different phone screen resolutions, you should keep them the same resolution.
@@ -71,8 +71,8 @@ From those sites you can manage all aspects of the release of your app to each s
 
 **Q: I need help, can you make my new app for me?**
 
-A: For minor queries you can reach out to [enquiries.fleetpondapp@gmail.com](mailto:enquiries.fleetpondapp@gmail.com) but due to the time commitment required we will not be able to write your app for you. If you want more significant help contact [matt@weeks.codes](mailto:matt@weeks.codes) who was on the team that developed the Fleet Pond App.
+A: For queries you can reach out to [enquiries.fleetpondapp@gmail.com](mailto:enquiries.fleetpondapp@gmail.com) but due to the time commitment required we will not be able to write your app for you. If you want more significant help contact [matt@weeks.codes](mailto:matt@weeks.codes) who was on the team that developed the Fleet Pond App.
 
 **Q: I want features that are not currently available in the app, can you add them?**
 
-A: Please email us your suggestions to [enquiries.fleetpondapp@gmail.com](mailto:enquiries.fleetpondapp@gmail.com) but we can't promise we will have time to implement them. If you want help implementing something for your app contact [matt@weeks.codes](mailto:matt@weeks.codes) who was on the team that developed the Fleet Pond App.
+A: Please email us your suggestions to [enquiries.fleetpondapp@gmail.com](mailto:enquiries.fleetpondapp@gmail.com) but we can't promise we will have time to implement them, if it is a repeated suggestion we will try. If you want help implementing something for your app you can also contact [matt@weeks.codes](mailto:matt@weeks.codes) who was on the team that developed the Fleet Pond App.
