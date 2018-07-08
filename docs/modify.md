@@ -2,7 +2,7 @@
 
 [Home](./index.html) &nbsp; [Help Guide](./help.html) &nbsp; [FAQ](./faq.html) &nbsp; [Fleet Pond website](http://fleetpond.org.uk/)
 
-## Modify questions
+## How to modify the app
 
 **Q: How do I create a new route?**
 
