@@ -89,11 +89,17 @@ The gallery tab shows you details about the current photo competition and a gall
 
 ![Screenshot of gallery tab][screenshotGallery]
 
+Click the links to visit pages with more information about the photo competitions.
+
+View the images from previous photo competitions with as a slideshow or a list using the button at the bottom of the text.
+
 ### Info
 
-The info tab shows you details about all of the different interests around the pond.
+The info tab gives you general details about the pond.
 
 ![Screenshot of info tab][screenshotInfo]
+
+Available on the info tab is lots of additional links and details about the pond, this includes donatiion link, contact information and a link to the Fleet Pond Society website.
 
 [buttonLocation]: ./assets/images/help/buttonLocation.png
 [buttonMap]: ./assets/images/help/buttonMap.png
