@@ -67,19 +67,44 @@ If you are offline, you will be shown reduced page without Google Maps and some 
 
 ### Trails
 
+The trails tab shows you details about all of the different routes available at the pond.
+
+![Screenshot of trails tab][screenshotTrails]
+
 ### Points of interest
+
+The points of interest tab shows you details about all of the different interests around the pond.
+
+![Screenshot of points of interest tab][screenshotPOIs]
 
 ### Point of interest
 
+The point of interest page shows you details about a single point of interest.
+
+![Screenshot of a point of interest][screenshotPOI]
+
 ### Gallery
 
+The gallery tab shows you details about the current photo competition and a gallery of photos from the previous photo competition.
+
+![Screenshot of gallery tab][screenshotGallery]
+
 ### Info
+
+The info tab shows you details about all of the different interests around the pond.
+
+![Screenshot of info tab][screenshotInfo]
 
 [buttonLocation]: ./assets/images/help/buttonLocation.png
 [buttonMap]: ./assets/images/help/buttonMap.png
 [markerBlue]: ./assets/images/help/markerBlue.png
 [markerRed]: ./assets/images/help/markerRed.png
 [markerLocation]: ./assets/images/help/markerLocation.png
-[screenshotSplash]: ./assets/images/help/screenshotSplash.png
+[screenshotGallery]: ./assets/images/help/screenshotGallery.png
+[screenshotInfo]: ./assets/images/help/screenshotInfo.png
 [screenshotMap]: ./assets/images/help/screenshotMap.png
 [screenshotMapOffline]: ./assets/images/help/screenshotMapOffline.png
+[screenshotPOIs]: ./assets/images/help/screenshotPOIs.png
+[screenshotPOI]: ./assets/images/help/screenshotPOI.png
+[screenshotSplash]: ./assets/images/help/screenshotSplash.png
+[screenshotTrails]: ./assets/images/help/screenshotTrails.png
