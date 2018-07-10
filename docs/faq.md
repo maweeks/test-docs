@@ -73,7 +73,7 @@ From those sites you can manage all aspects of the release of your app to each s
 
 **Q: Can you host my app for me so I don't have to pay the fee?**
 
-A: Unfortunatly not, this is against the Apple Store Guidelines and would get the application rejected upon review.
+A: Unfortunately not, this is against the Apple Store Guidelines and would get the application rejected upon review.
 
 **Q: I need help, can you make my new app for me?**
 
