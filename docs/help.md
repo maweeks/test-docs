@@ -6,7 +6,7 @@
 
 This page will provide you will all the information you need to make full use of the Fleet Pond - Companion App.
 
-![Screenshot of the splashscreen][screenshotSplash]
+![Screenshot of the splash screen][screenshotSplash]
 
 ### Map
 
